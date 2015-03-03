@@ -1,0 +1,8 @@
+[user]
+	email = eslam.shala@gmail.com
+	name = Eslamunto
+
+[alias]
+	pom = push origin master
+	st = status -s
+	
