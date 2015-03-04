@@ -5,4 +5,5 @@
 [alias]
 	pom = push origin master
 	st = status -s
-	
+	c = commit -m
+	pulm = pull origin master
